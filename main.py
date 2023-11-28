@@ -13,4 +13,6 @@ print(result)
 
 # 코드 추정 부분.
 
+#sdsdsadasdasdsad추가부분
+
 #chat_model.predict("hi!")
