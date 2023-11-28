@@ -11,4 +11,6 @@ llm = OpenAI()
 result = llm.predict("hi!")
 print(result)
 
+# 코드 추정 부분.
+
 #chat_model.predict("hi!")
